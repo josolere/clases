@@ -1,0 +1,12 @@
+{
+"nombre" : "jose",
+"edad":3,
+"tel":"9345345",
+"direccion":"bogota",
+"familia": true,
+"musica":["salsa","cumbia","rock","metal"],
+"peliculas":{
+    "terror":false,
+    "romanticas":["titanic","romeo y julieta"]
+}
+}

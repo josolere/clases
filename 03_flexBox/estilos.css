@@ -1,0 +1,119 @@
+.padre{
+    border: solid 1px black;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content:space-around  ;
+    align-items: center;
+    /* flex-direction: column; */
+}
+
+.hijos{
+    border: solid 1px blue;
+    width: 30%;
+    height: 70%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+.nietos1{
+    border: solid 1px blue;
+    width: 50%;
+    height: 25%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.nietos2{
+    border: solid 1px blue;
+    width: 50%;
+    height: 25%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+.nietos3{
+    border: solid 1px blue;
+    width: 50%;
+    height: 25%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.bisnietos1{
+    border: solid 1px blue;
+    width: 20%;
+    height: 25%;
+    
+}
+.bisnietos2{
+    border: solid 1px blue;
+    width: 20%;
+    height: 25%;
+    
+}
+.bisnietos3{
+    border: solid 1px blue;
+    width: 20%;
+    height: 25%;
+}
+.hijos2{
+    border: solid 1px blue;
+    width: 30%;
+    height: 70%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.nietos4{
+    border: solid 1px blue;
+    width: 25%;
+    height: 40%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+.nietos5{
+    border: solid 1px blue;
+    width: 25%;
+    height: 40%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.nietos6{
+    border: solid 1px blue;
+    width: 25%;
+    height: 40%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.bisnietos4{
+    border: solid 1px blue;
+    width: 20%;
+    height: 25%;
+    
+}
+.bisnietos5{
+    border: solid 1px blue;
+    width: 20%;
+    height: 25%;
+    
+}
+.bisnietos6{
+    border: solid 1px blue;
+    width: 20%;
+    height: 25%;
+}

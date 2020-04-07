@@ -1,0 +1,114 @@
+body{
+
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    background-color: black;
+    
+}
+
+.fondo {
+    /* border: solid 1px black; */
+    width: 60vw;
+    height: 80vh;
+    display: flex;
+    align-items: start;
+    background-color: rgb(0, 35, 104);
+    justify-content: space-between;
+}
+
+.azul1 {
+    /* border: solid 1px black; */
+    width: 36.36%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.blanco1 {
+    /* border: solid 1px black; */
+    width: 87.5%;
+    height: 43.75%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: white;
+}
+
+.blanco2 {
+    /* border: solid 1px black; */
+    width: 87.5%;
+    height: 43.75%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    background-color: white;
+}
+
+.rojo1 {
+    /* border: solid 1px black; */
+    width: 87.5%;
+    height: 86%;
+    display: flex;
+    background-color: rgb(239, 39, 41);
+}
+
+.rojo2 {
+    /* border: solid 1px black; */
+    width: 87.5%;
+    height: 86%;
+    display: flex;
+    background-color: rgb(239, 39, 41);
+}
+
+.azul2 {
+    /* border: solid 1px black; */
+    width: 63.64%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.blanco3 {
+    /* border: solid 1px black; */
+    width: 93%;
+    height: 43.75%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-end;
+    background-color: white;
+}
+
+.blanco4 {
+    /* border: solid 1px black; */
+    width: 93%;
+    height: 43.75%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    background-color: white;
+}
+
+.rojo3 {
+    /* border: solid 1px black; */
+    width: 93%;
+    height: 85.75%;
+    display: flex;
+    background-color: rgb(239, 39, 41);
+    ;
+}
+
+.rojo4 {
+    /* border: solid 1px black; */
+    width: 93%;
+    height: 85.75%;
+    display: flex;
+    background-color: rgb(239, 39, 41);
+}

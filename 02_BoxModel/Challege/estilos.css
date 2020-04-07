@@ -1,0 +1,79 @@
+
+.navegador1{
+	margin-left: 1270px;
+	
+	
+    
+}
+.navegador1 a{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	margin-left: 10px;
+	text-decoration: none;
+	text-align: center;
+	
+}
+
+.navegador1 a:hover{
+	text-decoration: underline;
+}
+
+
+
+.imagenDev{
+    border: solid ;
+    width: 30px;
+    border-radius: 30px;
+    margin-left: 15px;
+}
+
+.imagenMenu{
+    border: solid;
+    width: 20px;
+    margin-left: 10px;
+}
+
+main{
+	margin:109px 624px 0 ;
+	
+}
+input.buscar {
+	margin: 20px 465px 40px ;	
+	outline: none;
+	width: 553px;		
+	padding: 15px;
+	border-radius: 240px;
+}
+
+
+.navegador{
+	align-items: center;
+}
+
+.botonBuscar{
+ text-decoration: none;
+ padding: 8px;
+ font-weight: 8;
+ font-size: 15px;
+ font-family: Arial, Helvetica, sans-serif;
+ color: rgb(10, 9, 9);
+ background-color: rgb(247, 241, 241);
+ border-radius: 6px;
+ border: 2px solid rgb(241, 237, 237);
+ margin: 900px 0 1px 588px;
+ 
+}
+.botonSuerte{
+text-decoration: none;
+ padding: 8px;
+ font-weight: 8;
+ font-size: 15px;
+ font-family: Arial, Helvetica, sans-serif;
+ color: rgb(10, 9, 9);
+ background-color: rgb(247, 241, 241);
+ border-radius: 6px;
+ border: 2px solid rgb(241, 237, 237);
+ margin: 900px 57px 0px 7px;
+}
+
+
